@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "AMSE admin area"
-AuthUserFile /www/openwaygroup/inc/.htpasswd
-Require valid-user
